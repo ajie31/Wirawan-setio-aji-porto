@@ -1,0 +1,45 @@
+.sea {
+  fill: #d0d8d8;
+}
+.graticule {
+  stroke: #fff;
+}
+.province:hover {
+  fill: magenta;
+}
+.interiors {
+  stroke: white;
+  stroke-width: 1.5;
+}
+
+.toggle-button {
+  padding: 5px;
+}
+
+.medium-title {
+  font-family: "Tinos", serif;
+  color: #635f5d;
+}
+.regular-content {
+  font-family: "Domine", serif;
+  color: #8e8883;
+}
+.small-content {
+  font-family: "Libre Franklin", sans-serif;
+  color: #8e8883;
+}
+
+/* # TableBottom */
+
+.main-table {
+  transform: "rotateX(180deg)";
+}
+
+.collapse-table {
+  transform: "rotateX(180deg)";
+  overflow: visible;
+}
+/* #Tooltips */
+.tooltips-table {
+  min-width: 256;
+}

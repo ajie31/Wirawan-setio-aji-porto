@@ -1,0 +1,13 @@
+.sea {
+  fill: #d0d8d8;
+}
+.graticule {
+  stroke: #fff;
+}
+.cities-regencies {
+  fill: #f7f7f5;
+}
+.interiors {
+  stroke: #909090;
+  stroke-width: 0.15;
+}
