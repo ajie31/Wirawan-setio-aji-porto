@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export":"next export",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },
@@ -21,7 +21,7 @@
     "topojson-client": "^3.1.0"
   },
   "devDependencies": {
-    "eslint": "8.0.0",
+    "eslint": "^8.0.0",
     "eslint-config-next": "11.1.2"
   }
 }
